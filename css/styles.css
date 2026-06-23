@@ -1,0 +1,22 @@
+* {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.heading {
+    color: green;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#para {
+ color: yellow;
+}
